@@ -1,0 +1,22 @@
+{
+  "name": "@microfrontendly/angular-element-routing",
+  "version": "0.0.3",
+  "peerDependencies": {
+    "@angular/common": "^10.1.4",
+    "@angular/core": "^10.1.4"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  },
+  "keywords": [
+    "microfrontend",
+    "federeted",
+    "microfrontends",
+    "micro",
+    "umd",
+    "angular",
+    "routing"
+  ],
+  "author": "Marcin Milewicz",
+  "license": "MIT"
+}
